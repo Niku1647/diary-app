@@ -1,5 +1,5 @@
 ## Diary App
-### step for run this app
+
 ### Step for run this app
 * npm install
 * npm start
